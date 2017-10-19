@@ -1,1 +1,2 @@
 default: styles/application.scss
+mytheme: styles/mytheme.scss
